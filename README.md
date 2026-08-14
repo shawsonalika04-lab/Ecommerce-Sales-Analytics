@@ -1,5 +1,9 @@
  # E-Commerce Sales Analytics
 
+ ## 🚀 Live Dashboard
+
+👉 [View the Interactive E-Commerce Sales Analytics Dashboard](https://ecommerce-sales-analytics-hzfktactjevdon9atbh8ch.streamlit.app/)
+
 A Python-based e-commerce analytics project that transforms raw transactional data into actionable business insights through data cleaning, feature engineering, customer segmentation, product analysis, return analysis, and an interactive Streamlit dashboard.
 
 ## 📊 Project Overview
